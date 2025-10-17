@@ -1,4 +1,4 @@
-##CRUD Operations##
+**CRUD Operations**
 
 A simple REST API built with Node.js and Express to create, read, update, and delete notes.
 
